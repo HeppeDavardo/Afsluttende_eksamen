@@ -1,0 +1,6 @@
+[23-May-2023 13:30:44 UTC] PHP Parse error:  syntax error, unexpected identifier "get_theme_uri", expecting ")" in C:\Users\Jeppe\Local Sites\winefix-gruppe-104\app\public\wp-content\themes\Winefix\functions.php on line 7
+[23-May-2023 13:30:44 UTC] PHP Parse error:  syntax error, unexpected identifier "get_theme_uri", expecting ")" in C:\Users\Jeppe\Local Sites\winefix-gruppe-104\app\public\wp-content\themes\Winefix\functions.php on line 7
+[23-May-2023 13:31:13 UTC] PHP Parse error:  syntax error, unexpected identifier "get_theme_file_uri", expecting ")" in C:\Users\Jeppe\Local Sites\winefix-gruppe-104\app\public\wp-content\themes\Winefix\functions.php on line 7
+[23-May-2023 13:31:13 UTC] PHP Parse error:  syntax error, unexpected identifier "get_theme_file_uri", expecting ")" in C:\Users\Jeppe\Local Sites\winefix-gruppe-104\app\public\wp-content\themes\Winefix\functions.php on line 7
+[23-May-2023 13:31:15 UTC] PHP Parse error:  syntax error, unexpected identifier "get_theme_file_uri", expecting ")" in C:\Users\Jeppe\Local Sites\winefix-gruppe-104\app\public\wp-content\themes\Winefix\functions.php on line 7
+[23-May-2023 13:31:15 UTC] PHP Parse error:  syntax error, unexpected identifier "get_theme_file_uri", expecting ")" in C:\Users\Jeppe\Local Sites\winefix-gruppe-104\app\public\wp-content\themes\Winefix\functions.php on line 7
